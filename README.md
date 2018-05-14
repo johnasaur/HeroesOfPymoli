@@ -1,3 +1,8 @@
+#### Written description of three observable trends based on the data:
+
+1.	The majority of the clientele gender-wise is male with the count of 633 and the price around $1868, as opposed to female count of 136 and the price of $383. Interesting trend coming out of it was that the average price was very close in numbers, despite the fact that the gender population and prices differed greatly.
+2.	Most of the players, male and female alike, are in the 20-24 age range and the least are in 40+ age range. Interestingly, the average purchase price was highest with those of under age of 10. The total price had the biggest gap between ages 20-24 and the rest of the population ages. 
+3.	Most popular games appeared to be purchased by those in their 20s and 30s, mostly by males.
 
 
 ```python
