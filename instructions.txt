@@ -1,51 +1,51 @@
-# Heroes of Pymoli
-## Report should include the following:
+#Heroes of Pymoli
+##Report should include the following:
 
-### Player Count
--[x] Total Number of Players
+###Player Count
+-[x]Total Number of Players
 
-### Purchasing Analysis (Total)
--[x] Number of Unique Items
--[x] Average Purchase Price
--[x] Total Number of Purchases
--[x] Total Revenue
+###Purchasing Analysis (Total)
+-[x]Number of Unique Items
+-[x]Average Purchase Price
+-[x]Total Number of Purchases
+-[x]Total Revenue
 
-### Gender Demographics
--[x] Percentage and Count of Male Players
--[x] Percentage and Count of Female Players
--[x] Percentage and Count of Other / Non-Disclosed
+###Gender Demographics
+-[x]Percentage and Count of Male Players
+-[x]Percentage and Count of Female Players
+-[x]Percentage and Count of Other / Non-Disclosed
 
-### Purchasing Analysis (Gender) 
--[x] The below each broken by gender
+###Purchasing Analysis (Gender) 
+-[x]The below each broken by gender
      -Purchase Count
      -Average Purchase Price
      -Total Purchase Value
      -Normalized Totals
 
-### Age Demographics
--[x] The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.) 
+###Age Demographics
+-[x]The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.) 
      -Purchase Count
      -Average Purchase Price
      -Total Purchase Value
      -Normalized Totals
 
-### Top Spenders
--[x] Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+###Top Spenders
+-[x]Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
     -SN
     -Purchase Count
     -Average Purchase Price
     -Total Purchase Value
 
-### Most Popular Items
--[x] Identify the 5 most popular items by purchase count, then list (in a table):
+###Most Popular Items
+-[x]Identify the 5 most popular items by purchase count, then list (in a table):
       -Item ID
       -Item Name
       -Purchase Count
       -Item Price
       -Total Purchase Value
 
-### Most Profitable Items
--[x] Identify the 5 most profitable items by total purchase value, then list (in a table):
+###Most Profitable Items
+-[x]Identify the 5 most profitable items by total purchase value, then list (in a table):
       -Item ID
       -Item Name
       -Purchase Count
